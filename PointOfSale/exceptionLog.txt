@@ -1,0 +1,3 @@
+integration.DatabaseErrorException: <For developers> Database error.
+controller.AddingItemFailedException: Item couldn't be added.(Database error)
+integration.NonExistingIdentifierException: Item identifier: 11 can't be found in inventory.
